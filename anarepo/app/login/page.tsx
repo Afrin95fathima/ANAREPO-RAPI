@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 
+
 export default function LoginPage() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-purple-50 to-white dark:from-purple-950 dark:to-gray-900 px-4">
